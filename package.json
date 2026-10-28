@@ -1,0 +1,11 @@
+{
+  "name": "blood-bank-management-system",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "start:backend": "npm --prefix backend run start",
+    "check:backend": "npm --prefix backend run check"
+  }
+}
